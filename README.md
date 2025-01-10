@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Elshad
+<h1 align="center">Hi there, I'm Elshad
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Dev, BI Dev from Russia 🇷🇺</h3>
 
